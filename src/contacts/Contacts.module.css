@@ -1,28 +1,33 @@
-.contactsBlock{
+.contactsBlock {
 		height: 50vh;
 		background-color: lawngreen;
 }
-.container{
-flex-direction: column;
+
+.container {
+		flex-direction: column;
 		justify-content: flex-start;
 }
-.form{
+
+.form {
 		width: 60%;
 		display: flex;
 		flex-direction: column;
 		align-items: center;
 		row-gap: 10px;
 }
-.input{
+
+.input {
 		width: 100%;
 		height: 20px;
 }
-.textarea{
+
+.textarea {
 		width: 100%;
 		height: 150px;
 		resize: none;
 }
-.sendBtn{
+
+.sendBtn {
 		margin-top: 25px;
 		width: 80px;
 }

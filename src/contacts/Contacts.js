@@ -12,7 +12,7 @@ export const Contacts = () => {
 										<input className={s.input}/>
 										<input className={s.input}/>
 										<textarea className={s.textarea}></textarea>
-										<button className={s.sendBtn}>Send</button>
+										<button type="submit" className={s.sendBtn}>Send</button>
 								</form>
 						</div>
 				</div>
